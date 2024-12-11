@@ -4,5 +4,6 @@ import "fmt"
 
 func conflict() {
 	var i float64
-	fmt.Println(i)
+	var s string
+	fmt.Println(i, s)
 }
